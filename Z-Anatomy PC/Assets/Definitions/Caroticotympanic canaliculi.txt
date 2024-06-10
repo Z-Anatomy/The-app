@@ -7,38 +7,3 @@ Narrow canals at the beginning of the carotid canal for thin branches of the int
 
 
 Feneis 30.29
-;;;ES;;;
-
-
-
-CANALICULO CAROTICOTIPÁNICO
-
-Canales estrechos al comienzo del canal carotídeo para ramas delgadas de la arteria carótida interna y del plexo carotídeo hacia el cavum tympani.
-
-
-
-Feneis 30.29
-
-;;;PT;;;
-
-
-
-CANALÍCULOS CAROTICOTMPÂNICOS
-
-Canais estreitos no início do canal carotídeo para ramos finos da artéria carótida interna e do plexo carotídeo em direção ao cavo timpânico.
-
-
-
-Feneis 30.29
-
-;;;FR;;;
-
-
-
-CANALICULES CAROTICOTYMPANIQUES
-
-Canaux étroits au début du canal carotidien pour les branches fines de l'artère carotide interne et du plexus carotidien vers le cavum tympani.
-
-
-
-Fénéis 30.29

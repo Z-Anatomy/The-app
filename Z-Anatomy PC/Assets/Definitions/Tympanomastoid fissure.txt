@@ -7,38 +7,3 @@ Suture between the tympanic part and the mastoid process, emerging point of the 
 
 
 Feneis 32.34
-;;;ES;;;
-
-
-
-FISURA TIMPANOMASTOIDEA
-
-Sutura entre la parte timpánica y el proceso mastoideo, punto emergente de la rama auricular del nervio vago.
-
-
-
-Feneis 32.34
-
-;;;PT;;;
-
-
-
-FISSURA TIMPANOMASTÓIDE
-
-Sutura entre a parte timpânica e o processo mastóide, ponto emergente do ramo auricular do nervo vago.
-
-
-
-Feneis 32.34
-
-;;;FR;;;
-
-
-
-FISSURE TYMPANOMASTOÏDIENNE
-
-Suture entre la partie tympanique et l'apophyse mastoïdienne, point émergeant de la branche auriculaire du nerf vague.
-
-
-
-Fénéis 32.34

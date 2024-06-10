@@ -4,29 +4,3 @@ LATERAL BORDER OF KIDNEY
 
 
 Convex lateral border.
-;;;ES;;;
-
-
-
-BORDE LATERAL DEL RIÑÓN
-
-
-Borde lateral convexo.
-
-;;;PT;;;
-
-
-
-BORDA LATERAL DO RIM
-
-
-Borda lateral convexa.
-
-;;;FR;;;
-
-
-
-BORD LATÉRAL DU REIN
-
-
-Bord latéral convexe.

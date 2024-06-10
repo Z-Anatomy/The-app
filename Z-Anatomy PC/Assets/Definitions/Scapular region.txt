@@ -4,29 +4,3 @@ SCAPULAR REGION
 
 
 Covering the scapula.
-;;;ES;;;
-
-
-
-REGIÓN ESCAPULAR
-
-
-Cubriendo la escápula.
-
-;;;PT;;;
-
-
-
-REGIÃO ESCAPULAR
-
-
-Cobrindo a escápula.
-
-;;;FR;;;
-
-
-
-RÉGION SCAPULAIRE
-
-
-Couvrant l'omoplate.

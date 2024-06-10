@@ -3,30 +3,3 @@
 MEDIAL SURFACE OF LUNG
 
 
-
-;;;ES;;;
-
-
-
-SUPERFICIE MEDIAL DEL PULMÓN
-
-
-
-
-;;;PT;;;
-
-
-
-SUPERFÍCIE MEDIAL DO PULMÃO
-
-
-
-
-;;;FR;;;
-
-
-
-SURFACE MEDIALE DU POUMON
-
-
-
