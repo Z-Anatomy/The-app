@@ -15,6 +15,7 @@ IMPROVEMENTS:
     -NAVIGATE IN THE LEXICON WITH THE ARROWS: Same but develop with the right arrow; collapse with the left arrow.
     -ADD PARENTHOOD RELATIONSHIPS BETWEEN LABELS: Many labels are to be re-imported as children of another label. These sub-labels should only appear in a different color when the parent label is selected.
     -ADD AN OPTION TO OPEN AN ANATOMICAL STRUCTURE: Calling this function would hide the parent object and its direct label-children but not its mesh-children and their own labels.
+    -DISPLAY THE BONUS COLLECTIONS AS SEARCH RESULTS; display them when this result is selected.
     -ADD SHORTCUTS TO SHOW/HIDE THE LAYERS: The numbers above the letters should add or remove a layer of each system (1: skeleton; 2: insertions; 3: ligaments; ...). +Shift for the whole layer; +Ctrl to remove.
     -LINK VIDEOS FROM THE DESCRIPTION: The URL could be added to a word (bit of text) in the description. This word would appear in a different color and open the video on (a different page of) the internet.
     -ADD THE OPTION TO RECORD & SHARE DISSECTIONS: Save and recover the state of visibility of the scene with its point of view and the selected object(s).
