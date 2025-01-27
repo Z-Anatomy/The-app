@@ -11,7 +11,7 @@ BUG FIXES:
 
 IMPROVEMENTS:
 
-    -SHARE EXPORTED APPSFOR WINDOWS/MAC/LINUX in this repository.
+    -SHARE EXPORTED APPS FOR WINDOWS/MAC/LINUX in this repository.
     -CHANGE THE WINDOW'S WIDTH AND HEIGHT: Send the lexicon and description to the left or to the right.
     -NAVIGATE WITHIN THE SEARCH RESULTS WITH THE ARROWS: Move up and down with the up and down arrows, selecting with 'Enter'. (Change the actual shortcut for orthogonal views to the numpad.)
     -NAVIGATE IN THE LEXICON WITH THE ARROWS: Same but develop with the right arrow; collapse with the left arrow.
