@@ -7,9 +7,11 @@ BUG FIXES:
     -COPY PASTING TEXTS FROM THE DEFINITIONS: It currently does not paste anything.
     -REPAIR LINKS TO WIKIPEDIA: Most definitions have a URL at the end; it should be clickable.
     -GATHER THE FRENCH VERSION WITH THE OTHER DESCRIPTIONS: These are currently stored in different folders, and many titles are damaged in the French descriptions.
+    -REMOVE SCRIPTS POINTING TO FIREBASE. An unknown error prevented the definitions to be displayed during a few days. This should not happen.
 
 IMPROVEMENTS:
 
+    -SHARE EXPORTED APPSFOR WINDOWS/MAC/LINUX in this repository.
     -CHANGE THE WINDOW'S WIDTH AND HEIGHT: Send the lexicon and description to the left or to the right.
     -NAVIGATE WITHIN THE SEARCH RESULTS WITH THE ARROWS: Move up and down with the up and down arrows, selecting with 'Enter'. (Change the actual shortcut for orthogonal views to the numpad.)
     -NAVIGATE IN THE LEXICON WITH THE ARROWS: Same but develop with the right arrow; collapse with the left arrow.
@@ -27,7 +29,7 @@ GAME MODE:
 
 The main principle is based on 'Pole a muscle' (https://www.anatomyarcade.com/games/PAM/PAM.html):
 
-    -ENTER IN QUIZ MODE: This mode replaces the side panels by a Game panel.
+    -ENTER IN GAME MODE: This mode replaces the side panels by a Game panel.
     -CHOOSE WHICH SYSTEM to be tested on.
     -CHOOSE A DIFFICULTY LEVEL (middle school, high school, Bac+3, Bac+5, ...).
     -START A TIMER when starting a level.
