@@ -1,0 +1,39 @@
+
+BUG FIXES:
+
+    -RESET GIZMO LOCATION: Reset the gizmo location when resetting the app.
+    -REPAIR GIZMO: Clicking on its branches should trigger the orthogonal views and invert the view with the central one.
+    -REPAIR THE MOVE TOOL: Clicking the gizmo's branch of the move function and dragging it should move the objects along the corresponding axis in the 3D view.
+    -COPY PASTING TEXTS FROM THE DEFINITIONS: It currently does not paste anything.
+    -REPAIR LINKS TO WIKIPEDIA: Most definitions have a URL at the end; it should be clickable.
+    -GATHER THE FRENCH VERSION WITH THE OTHER DESCRIPTIONS: These are currently stored in different folders, and many titles are damaged in the French descriptions.
+
+IMPROVEMENTS:
+
+    -CHANGE THE WINDOW'S WIDTH AND HEIGHT: Send the lexicon and description to the left or to the right.
+    -NAVIGATE WITHIN THE SEARCH RESULTS WITH THE ARROWS: Move up and down with the up and down arrows, selecting with 'Enter'. (Change the actual shortcut for orthogonal views to the numpad.)
+    -NAVIGATE IN THE LEXICON WITH THE ARROWS: Same but develop with the right arrow; collapse with the left arrow.
+    -ADD PARENTHOOD RELATIONSHIPS BETWEEN LABELS: Many labels are to be re-imported as children of another label. These sub-labels should only appear in a different color when the parent label is selected.
+    -ADD AN OPTION TO OPEN AN ANATOMICAL STRUCTURE: Calling this function would hide the parent object and its direct label-children but not its mesh-children and their own labels.
+    -ADD SHORTCUTS TO SHOW/HIDE THE LAYERS: The numbers above the letters should add or remove a layer of each system (1: skeleton; 2: insertions; 3: ligaments; ...). +Shift for the whole layer; +Ctrl to remove.
+    -LINK VIDEOS FROM THE DESCRIPTION: The URL could be added to a word (bit of text) in the description. This word would appear in a different color and open the video on (a different page of) the internet.
+    -ADD THE OPTION TO RECORD & SHARE DISSECTIONS: Save and recover the state of visibility of the scene with its point of view and the selected object(s).
+    -ADD URL-WIDGETS POINTING TO THE RIGHT STRUCTURE: Just as in this example: https://ta2viewer.openanatomy.org/?id=3555
+    -ADD ANNOTATIONS: If the option to record dissections is available, the user may want to add annotations just as in Sketchfab (https://tinyurl.com/y68pta8n).
+    -FIND HOW TO TEACH THE OFFICIAL TRANSLATIONS TO AN AI: In order to correctly translate the original version with the official names (https://tinyurl.com/yckcx6zy).
+
+GAME MODE:
+
+The main principle is based on 'Pole a muscle' (https://www.anatomyarcade.com/games/PAM/PAM.html):
+
+    -ENTER IN QUIZ MODE: This mode replaces the side panels by a Game panel.
+    -CHOOSE WHICH SYSTEM to be tested on.
+    -CHOOSE A DIFFICULTY LEVEL (middle school, high school, Bac+3, Bac+5, ...).
+    -START A TIMER when starting a level.
+    -ONLY SHOW THE PRE-DEFINED ANATOMICAL STRUCTURES using lists as for the bonus collections.
+    -DISPLAY each pre-recorded anatomical terms at a time, in a random order.
+    -PLAY A SOUND for each correct or wrong answer (Two sounds/system).
+    -DISPLAY A FAILURE SPLASHSCREEN at the end of the timer.
+    -or a VICTORY SLASHSCREEN WITH MUSIC AND UNLOCK the next level.
+    -SET ALL THE STRUCTURES OF THE LEVEL TO 'KOWN' for victory.
+    -SAVE THE USER'S PROGRESS in a fullscreen panel that shows the percentage of known structures for each system/difficulty level.
