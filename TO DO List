@@ -11,8 +11,8 @@ BUG FIXES:
 
 MINOR IMPROVEMENTS:
 
-    -ADD SPLASHSCREEN, REPLACE LINK TO FORUM by a link to the linkedin page
-    -SHARE EXPORTED APPS FOR WINDOWS/MAC/LINUX in this repository.
+    -ADD THE SPLASHSCREEN SCENE, REPLACE LINK TO FORUM by a link to the linkedin page
+    -ADD A MONOCHROME MATERIAL on the inner surface of the meshes to look solid with the cross-sections
     -CHANGE THE WINDOW'S WIDTH AND HEIGHT: Send the lexicon and description to the left or to the right.
     -NAVIGATE WITHIN THE SEARCH RESULTS WITH THE ARROWS: Move up and down with the up and down arrows, selecting with 'Enter'. (Change the actual shortcut for orthogonal views to the numpad.)
     -NAVIGATE IN THE LEXICON WITH THE ARROWS: Same but develop with the right arrow; collapse with the left arrow.
@@ -20,6 +20,7 @@ MINOR IMPROVEMENTS:
     -ADD SHORTCUTS TO SHOW/HIDE THE LAYERS: The numbers above the letters should add or remove a layer of each system (1: skeleton; 2: insertions; 3: ligaments; ...). +Shift for the whole layer; +Ctrl to remove.
     -LINK VIDEOS FROM THE DESCRIPTION: The URL could be added to a word (bit of text) in the description. This word would appear in a different color and open the video on (a different page of) the internet.
     (-TRANSLATE THE GAME OBJECTS'NAMES TO THEIR TA2ID equivalent without breaking the other functions.)
+    -SHARE EXPORTED APPS FOR WINDOWS/MAC/LINUX in this repository.
 
 MAJOR IMPROVEMENTS:
 
